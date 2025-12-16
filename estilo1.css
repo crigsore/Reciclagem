@@ -42,6 +42,7 @@ font-size: 130%;
 }
 #conteudo_contato form {
 margin-left: 60%;
+box-sizing: border-box;
 }
 #conteudo_contato textarea {
 width: 550px;
@@ -51,3 +52,4 @@ div{
     margin: 15px;
     height: 10px;
 }
+
